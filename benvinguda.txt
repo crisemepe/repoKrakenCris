@@ -4,3 +4,4 @@ Bienvenida Cris!
 (C) Benvinguda a la branca 02 Cris
 (D) Modificació 02 main Cris
 (E) Afegim imatge a branca01
+(F) Agefim imatge a branca02
